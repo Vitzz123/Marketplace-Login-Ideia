@@ -1,29 +1,3 @@
 [
-     {
-          "nome": "V\u00edtor Augusto Cunha De Sousa",
-          "senha": "050353Ir",
-          "cpf": "08559715177",
-          "email": "shameofvitor@gmail.com",
-          "ano": "2005",
-          "telefone": "(11) 99999-9999",
-          "endereco": "Rua Exemplo, 123 - Bairro - Cidade/UF"
-     },
-     {
-          "nome": "Pedro Henrique Mitre G\u00edrio",
-          "senha": "76iu((",
-          "cpf": "88874598763",
-          "email": "ph_omega@gmail.com",
-          "ano": "2004",
-          "telefone": "61987456633",
-          "endereco": "QND 24 Lote 8 Apt 1507 Bloco A"
-     },
-     {
-          "nome": "Vitor Augusto Cunha De Sousa",
-          "senha": "050353Ir*",
-          "cpf": "08559715177",
-          "email": "Shameofvitor@gmail.com",
-          "ano": "2005",
-          "telefone": "61992036841",
-          "endereco": "CSB 10 Lote 6/7 apt 101 C"
-     }
+     
 ]
